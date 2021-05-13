@@ -3,7 +3,7 @@ Alco's Infinity is a piece of interactive fiction where you make choices that he
 
 Alco's Infinity was published using Twine, an open-source interactive fiction engine.
 
-Alco's Infinity can be more easily played here: https://drakirby.itch.io/alcos-infinity
+It can be more easily played here: https://drakirby.itch.io/alcos-infinity
 
 Otherwise, you can download the .html file and play it in your browser.
 
